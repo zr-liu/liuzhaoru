@@ -17,21 +17,23 @@ Education
 
 Work experience
 ======
-* Summer 2019: Research Assistant
-  * National University of Singapore
+* Aug 2019 - Sep 2019: Exchange Student
+  * Department of Buildings, National University of Singapore
   * Duties included: Sensitivity analysis and bayesian calibration on building energy models
-  * Supervisor: Dr. Adrian Chong
+  * Supervisor: [Dr. Adrian Chong](https://blog.nus.edu.sg/adrianchong/)
 
+* Jan 2023 - May 2023: Visiting PhD Student
+  * Department of the Built Environment, National University of Singapore
+  * Duties included: Sensitivity analysis and bayesian calibration on building energy models
+  * Supervisor: [Dr. Adrian Chong](https://blog.nus.edu.sg/adrianchong/)
 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Building Performance Simulation (DeST, EnergyPlus)
+* Programming (Python, R, C++)
+* GIS
+* LaTeX, MS Office
 
 Publications
 ======
@@ -39,18 +41,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
