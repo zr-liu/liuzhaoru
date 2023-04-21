@@ -18,15 +18,8 @@ Education
 
 Experience
 ======
-* Aug 2019 - Sep 2019: Exchange Student
-  * Department of Buildings, National University of Singapore
-  * Duties included: Sensitivity analysis and bayesian calibration on building energy models
-  * Supervisor: [Dr. Adrian Chong](https://blog.nus.edu.sg/adrianchong/)
-
-* Jan 2023 - May 2023: Visiting PhD Student
-  * Department of the Built Environment, National University of Singapore
-  * Duties included: Sensitivity analysis and hierarchical calibration on UBEM
-  * Supervisor: [Dr. Adrian Chong](https://blog.nus.edu.sg/adrianchong/)
+* Aug 2019 - Sep 2019: Exchange Student, advised by Prof. [Adrian Chong](https://blog.nus.edu.sg/adrianchong/), Department of Buildings, National University of Singapore
+* Jan 2023 - May 2023: Visiting PhD Student, advised by Prof. [Adrian Chong](https://blog.nus.edu.sg/adrianchong/), Department of the Built Environment, National University of Singapore
 
 Publications
 ======
