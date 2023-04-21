@@ -16,7 +16,7 @@ Education
 * BEcon (Economics, dual-degree) (2020), Peking University, China
 * Ph.D (Urban Building Energy Modeling) (2025, expected), Tsinghua University, China
 
-Work experience
+Experience
 ======
 * Aug 2019 - Sep 2019: Exchange Student
   * Department of Buildings, National University of Singapore
