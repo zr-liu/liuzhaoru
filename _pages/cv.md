@@ -11,21 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BEng (Built Environment) (2020), Tsinghua University, China
+* BEcon (Economics, dual-degree) (2020), Peking University, China
+* Ph.D (Urban Building Energy Modeling) (2025, expected), Tsinghua University, China
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Research Assistant
+  * National University of Singapore
+  * Duties included: Sensitivity analysis and bayesian calibration on building energy models
+  * Supervisor: Dr. Adrian Chong
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
