@@ -34,12 +34,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-
-<style>
-    #clustrmaps img {
-        width: 20%;
-        height: auto;
-    }
-</style>
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=PFU6Ji0TJRInoxecPdYQyfDOLKdR-IRXZkG_6wBn4zw&cl=ffffff&w=a"></script>
+<div>  
+  <style>
+      #clustrmaps img {
+          width: 20%;
+          height: auto;
+      }
+  </style>
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=PFU6Ji0TJRInoxecPdYQyfDOLKdR-IRXZkG_6wBn4zw&cl=ffffff&w=a"></script>
+</div>
