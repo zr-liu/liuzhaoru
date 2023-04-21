@@ -35,6 +35,6 @@ Publications
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=PFU6Ji0TJRInoxecPdYQyfDOLKdR-IRXZkG_6wBn4zw&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=PFU6Ji0TJRInoxecPdYQyfDOLKdR-IRXZkG_6wBn4zw&cl=ffffff&w=350"></script>
 
 
