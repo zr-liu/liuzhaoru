@@ -1,7 +1,7 @@
 ---
 title: "Exploring the impacts of heterogeneity and stochasticity in air-conditioning behavior on urban building energy models"
 collection: publications
-permalink: /publication/2023-02-20-paper-PVurban-number-2
+permalink: /publication/2023-02-20-paper-OBuncertainty-number-3
 excerpt: 'Heterogeneity and stochasticity, two main aspects of uncertainty in occupant behavior (OB), at the urban scale are not featured in most current urban building energy modeling (UBEM) platforms, and their respective impacts on urban-scale building energy consumption remain unclear. We aimed to introduce OB uncertainty into the UBEM workflow and assess the differences in the impacts of heterogeneity and stochasticity on cooling demand. Different OB models were integrated into the cooling demand simulation of residential building stocks, considering the heterogeneity and stochasticity in both occupancy and energy-use behavior. The impacts of heterogeneity and stochasticity on urban-scale cooling demand and its applications for different purposes in UBEM are discussed. We found that stochasticity in occupancy decreased the peak cooling demand by 54%, whereas the uncertainty in air-conditioning (AC) behavior had little effect. Heterogeneity is the main reason for the diversity in cooling demand, whereas stochasticity better reflects the dynamics of cooling demand. Occupancy and AC behavior models with higher fidelity are required to obtain results with higher spatial or temporal resolution, which should be selected according to the UBEM applications. The proposed approach will contribute to the development of appropriate urban-scale occupant behavior models and bridge urban mobility with occupant-centric UBEMs.'
 date: 2024-02-20
 venue: 'Sustainable Cities and Society'
